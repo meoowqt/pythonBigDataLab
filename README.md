@@ -14,7 +14,9 @@
 - jupyter notebook
 - numpy
 - scipy
-- Pandas
+- pandas
 - matplotlib
 - seaborn
+- pingouin
+- sklearn
 
